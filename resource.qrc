@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="image">
+    <file>picture/page3_picture.jpg</file>
+    <file>picture/robot_c.jpg</file>
+    <file>picture/camerabuttomicon.jpg</file>
+    <file>picture/cameraicon.jpg</file>
+    <file>picture/cameralefticon.jpg</file>
+    <file>picture/camerarighticon.jpg</file>
+    <file>picture/cameratopicon.jpg</file>
+    <file>picture/robotbuttomicon.jpg</file>
+    <file>picture/robotlefticon.jpg</file>
+    <file>picture/robotrighticon.jpg</file>
+    <file>picture/robottopicon.jpg</file>
+    <file>picture/speedicon.jpg</file>
+    <file>picture/angleicon.jpg</file>
+    <file>picture/distanceicon.jpg</file>
+    <file>picture/page2_seticon.jpg</file>
+    <file>picture/rectangle.jpg</file>
+  </qresource>
+</RCC>
